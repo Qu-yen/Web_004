@@ -4,6 +4,10 @@
     <h2>
       <nuxt-link to="/pages01">next pages01</nuxt-link>
     </h2>
+
+    <h2>
+      <nuxt-link to="/pages02">next pages02</nuxt-link>
+    </h2>
   </div>
 </template>
 
